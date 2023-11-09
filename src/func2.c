@@ -1,5 +1,5 @@
 #include"funcs.h"
 
-void goo(){
-    printf("goo\n");
+void goo(int m){
+    printf("goo %d\n", m);
 }
