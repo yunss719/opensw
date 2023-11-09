@@ -2,7 +2,7 @@
 #define __FUNCS_H__
 #include <stdio.h>
 
-void foo();
-void goo();
+void foo(int k);
+void goo(int m);
 
 #endif
